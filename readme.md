@@ -42,6 +42,12 @@ $ php artisan migrate
 
 ## Using
 
+- Run unit test
+In app directory run
+```
+$ vendor/bin/phpunit tests
+```
+
 For all requests required is plain JSON as parameters.
 
 - User Create
